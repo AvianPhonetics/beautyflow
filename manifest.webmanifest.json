@@ -1,0 +1,27 @@
+{
+  "name": "BeautyFlow — CRM для салона",
+  "short_name": "BeautyFlow",
+  "description": "Онлайн-запись и управление салоном красоты",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf7f2",
+  "theme_color": "#c9744f",
+  "lang": "ru",
+  "categories": ["business", "productivity", "lifestyle"],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
