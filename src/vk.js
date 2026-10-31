@@ -172,7 +172,7 @@ export async function shareBooking(booking) {
 
   try {
     await window.vkBridge.send('VKWebAppShare', {
-      link: 'https://vk.com/app51812345'
+      link: 'https://vk.com/app54868657'
     });
     return true;
   } catch (err) {
